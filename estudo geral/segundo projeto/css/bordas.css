@@ -1,0 +1,5 @@
+#conteudo{
+    border: 10px outset red;
+    border-color: blue green yellow;
+    border-width: 5px;
+}
