@@ -1,19 +1,39 @@
 
 body {
 	background: #d2d2c1 url('../img/fundo.png');
-	font: 16pxx Arial, Helvetica, sans-serif;
+	font: 16px Arial, Helvetica, sans-serif;
 }
 
-#principal {
+#conteudo-principal {
 	width: 900px;
 }
 
 #menu {
-	background: #c5c5b2;
+	background: #9c9c99;
 	padding:18px;
 }
 
 #menu a {
 	text-decoration: none;
-	color: #4b566a;		
+	color: #3f4041;
+	font-weight: bold;
+	padding: 5px;
+} 
+
+#conteudo{
+	background: #e8e8d9;
+	padding: 10px;
+}
+
+#rodape {
+	text-align: center;
+}
+
+#conteudo h1 {
+	color: #828271;
+	font-size: 1.2em;
+}
+
+.img-campanha {
+	border: 10px solid #c3c3ae;
 }
