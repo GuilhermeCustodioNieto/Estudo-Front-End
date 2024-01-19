@@ -1,5 +1,5 @@
 # Estudo de Front-End
-![[readme-img.png]]
+<img src="readme-img.png" alt="Imagem da logo do HTML, CSS E JS">
 ---
 ## Objetivo
 
