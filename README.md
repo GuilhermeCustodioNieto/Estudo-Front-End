@@ -16,4 +16,4 @@ O objetivo desse repositório é armazenar meus estudos de Front-End, que inclue
 - [ ] Jquery
 - [ ] Angular
 - [ ] Flutter
-- [ ] React
+- [x] React
